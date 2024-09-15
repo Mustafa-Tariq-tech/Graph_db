@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-experimental
+langchain-groq
+tiktoken
+python-dotenv
+langchain_groq
+neo4j
+yfiles_jupyter_graphs
